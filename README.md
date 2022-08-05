@@ -1,5 +1,5 @@
 # UNSPSC-Reference-Avalara-Categories-Query-System
-This project is built for Avalara, Inc. to query UNSPSC® reference with Avalara goods
+This project is built for Avalara, Inc. to query UNSPSC® reference with Avalara goods.
 
 To run this query system, you need to get UNSPSC_English.csv and Avalara_goods_and_services.csv. Pleases ask Avalara, Inc. for necessary files, then:
 
@@ -9,7 +9,7 @@ Step 2: Open terminal on mac or command prompt on windows.
 
 Step 3: Navigate to the directory of the program.
 
-Step 4: Open the project in your favorite code editor (IntelliJ / Eclipse)
+Step 4: Open the project in your favorite code editor (IntelliJ / Eclipse).
 
 Step 5: In order for the files to be read, use the following paths:
 
@@ -23,9 +23,9 @@ Step 5: In order for the files to be read, use the following paths:
 		Avalara: ..\\Avalara_goods_and_services.csv
 		Result: ..\\resultFinal.csv
 
-Step 4: Type "javac *.java" => this will compile the project
+Step 4: Type "javac *.java" => this will compile the project.
 
-Step 5: Type "java Project" => This will run the project 
+Step 5: Type "java Project" => this will run the project .
 
 Step 6: Check the resultFinal.csv at one level above the system directory.
 
