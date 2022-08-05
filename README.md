@@ -25,7 +25,7 @@ Step 5: In order for the files to be read, use the following paths:
 
 Step 4: Type "javac *.java" => this will compile the project.
 
-Step 5: Type "java Project" => this will run the project .
+Step 5: Type "java Project" => this will run the project.
 
 Step 6: Check the resultFinal.csv at one level above the system directory.
 
