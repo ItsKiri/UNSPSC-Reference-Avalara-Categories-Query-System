@@ -12,6 +12,7 @@ Step 3: Navigate to the directory of the program.
 Step 4: Open the project in your favorite code editor (IntelliJ / Eclipse)
 
 Step 5: In order for the files to be read, use the following paths:
+
 	Mac:
 		UNSPSC: ../UNSPSC_English.csv
 		Avalara: ../Avalara_goods_and_services.csv
